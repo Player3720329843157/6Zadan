@@ -1,3 +1,3 @@
-##Dzien dobry
-#postaralem sie 
+## Dzien dobry
+# postaralem sie 
 poprosze 6
